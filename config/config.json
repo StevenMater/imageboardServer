@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url": "postgres://dcdqdvtu:seVCc0EwSAqbVLmJa2NzTYtYmJIYmdLx@abul.db.elephantsql.com/dcdqdvtu",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
